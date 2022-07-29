@@ -6,4 +6,4 @@
 
 ### 1、讲下equals和hashcode，他们为何必须一起重写？hashcode方法重写规则。
 
-[讲下equals和hashcode，他们为何必须一起重写？hashcode方法重写规则]("https://www.baidu.com")
+[讲下equals和hashcode，他们为何必须一起重写？hashcode方法重写规则]("MD/讲下equals和hashcode，他们为何必须一起重写？hashcode方法重写规则。.md")
